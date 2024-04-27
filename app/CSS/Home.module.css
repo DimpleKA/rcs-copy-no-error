@@ -1,0 +1,15 @@
+.home-dp {
+    background: url("https://www.rcsinfo.in/img/slides/slider-1.jpg") center/contain no-repeat;
+}
+
+@media screen and (max-width: 768px) {
+    .home-dp {
+        height: 30vh;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .home-dp {
+        height: 70vh;
+    }
+}
