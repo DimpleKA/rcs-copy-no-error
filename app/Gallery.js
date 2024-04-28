@@ -40,7 +40,9 @@ const Gallery = () => {
           I just wanted to thank you for the excellent job you have done on our website. The service was incredible and responsive. We were treated as the valued customer, affordable price compared to the others website company. Cheers!!
           </h3>
 
-          <p className='text-center text-lg py-2'>Global Interiors India</p>
+          <p className='text-center text-lg py-2'>
+            
+          </p>
           <p className='text-center text-lg py-2'>Shiva Kumar</p>
           <p className='text-center text-lg py-2'>www.globalinteriorsindia.com</p>
 

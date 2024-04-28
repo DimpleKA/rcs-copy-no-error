@@ -1,0 +1,34 @@
+.portfolioItem {
+    position: relative;
+  }
+  
+  .leftSide,
+  .rightSide {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    transition: width 0.5s ease; /* Transition property for smooth animation */
+  }
+  
+  .leftSide {
+    width: 0%; /* Initially 50% width */
+  }
+  
+  .rightSide {
+    width: 100%; /* Initially 50% width */
+    right: 0;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
+  .portfolioItem:hover .leftSide {
+    width: 50%; /* Increase width to 100% on hover */
+  }
+  
+  .portfolioItem:hover .rightSide {
+    width: 50%; /* Decrease width to 0 on hover */
+  }
+  
+  

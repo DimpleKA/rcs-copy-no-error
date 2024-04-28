@@ -85,30 +85,30 @@ function Navbar() {
                   </ul>
                   <ul className="py-2 text-sm text-gray-700 dark:text-gray-400" aria-labelledby="dropdownLargeButton">
                     <li>
-                      <Link href="static" className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Android Apps</Link>
+                      <Link href="android" className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Android Apps</Link>
                     </li>
                     <li>
-                      <Link href="dynamic" className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">iOS Apps</Link>
+                      <Link href="ios" className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">iOS Apps</Link>
                     </li>
                   </ul>
 
                   <ul>
                     <li>
-                      <Link href="cms" className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Seach Engine Optimization</Link>
+                      <Link href="seo" className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Seach Engine Optimization</Link>
                     </li>
                     <li>
-                      <Link href="ecom" className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Social Media Marketing</Link>
+                      <Link href="smm" className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Social Media Marketing</Link>
                     </li>
                     <li>
-                      <Link href="ecom" className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Pay Per Click</Link>
+                      <Link href="ppc" className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">Pay Per Click</Link>
                     </li>
                   </ul>
 
                   <div className="py-1">
-                    <Link href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:hover:bg-gray-600 dark:text-gray-200 dark:hover:text-white">Web Hosting</Link>
+                    <Link href="webhosting" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:hover:bg-gray-600 dark:text-gray-200 dark:hover:text-white">Web Hosting</Link>
                   </div>
                   <div className="py-1">
-                    <Link href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:hover:bg-gray-600 dark:text-gray-200 dark:hover:text-white">Logo Design</Link>
+                    <Link href="logodesign" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:hover:bg-gray-600 dark:text-gray-200 dark:hover:text-white">Logo Design</Link>
                   </div>
                 </div>
                 {/* dropdown nav menu */}
