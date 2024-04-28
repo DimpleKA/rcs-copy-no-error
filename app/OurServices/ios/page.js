@@ -1,4 +1,5 @@
 import CommonNavig from '@/app/CommonNavig'
+import Image from 'next/image'
 import Footer from '@/app/Footer'
 import Navbar from '@/app/Navbar'
 import React from 'react'
@@ -42,7 +43,7 @@ Our team of developers take iOS app development to an enhanced level. We adopt a
 </ul> */}
 </div>
 <div className='text-lg lg:w-1/2 p-4 sm:w-full'>
-  <img src='https://www.rcsinfo.in/img/ios-app.jpg'/>
+  <Image src='https://www.rcsinfo.in/img/ios-app.jpg'/>
 </div>
   </div>
 

@@ -1,5 +1,6 @@
 import CommonNavig from '@/app/CommonNavig'
 import Footer from '@/app/Footer'
+import Image from 'next/image'
 import Navbar from '@/app/Navbar'
 import React from 'react'
 
@@ -39,7 +40,7 @@ When you have been around for as long as we have, you get to learn a lot about w
     
 </div>
 <div className='text-lg lg:w-1/2 p-4 sm:w-full'>
-  <img src='https://www.rcsinfo.in/img/logo-design.png'/>
+  <Image src='https://www.rcsinfo.in/img/logo-design.png'/>
 </div>
   </div>
 
@@ -53,7 +54,7 @@ When you have been around for as long as we have, you get to learn a lot about w
 
 {/* the last image */}
 {/* <div className='w-full p-10'>
-  <img src='https://www.rcsinfo.in/img/web-hosting.jpg'/>
+  <Image src='https://www.rcsinfo.in/img/web-hosting.jpg'/>
 </div> */}
 {/* the last image */}
 

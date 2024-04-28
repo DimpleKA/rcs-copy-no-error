@@ -1,5 +1,6 @@
 'use client'
 import React, { useState } from 'react';
+import Image from 'next/image';
 import { FaArrowLeft, FaArrowRight } from 'react-icons/fa'; // Import icons from FontAwesome
 
 const Gallery = () => {
@@ -23,7 +24,7 @@ const Gallery = () => {
 
   return (
     <div className="relative p-10">
-      <img
+      <Image
         className="w-full max-h-96 object-cover rounded-lg"
         src={images[currentIndex]}
         alt={`Image ${currentIndex + 1}`}

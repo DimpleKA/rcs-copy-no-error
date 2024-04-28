@@ -1,4 +1,5 @@
 import CommonNavig from '@/app/CommonNavig'
+import Image from 'next/image'
 import Footer from '@/app/Footer'
 import Navbar from '@/app/Navbar'
 import React from 'react'
@@ -42,7 +43,7 @@ Our market leading selling tools, striking templates and enterprise-grade websit
 </ul> */}
 </div>
 <div className='text-lg lg:w-1/2 p-4 sm:w-full'>
-  <img src='https://miro.medium.com/v2/resize:fit:1400/1*34GfkhLFydPjZWUde1EzRg.jpeg'/>
+  <Image src='https://miro.medium.com/v2/resize:fit:1400/1*34GfkhLFydPjZWUde1EzRg.jpeg'/>
 </div>
   </div>
 
@@ -92,7 +93,7 @@ Blog Submission – The worth of a website increases with submission of blogs. W
 {/* fifth one columnd starts */}
 
 <div className='w-full p-10'>
-  <img src='https://www.rcsinfo.in/img/E-commerce.jpg'/>
+  <Image src='https://www.rcsinfo.in/img/E-commerce.jpg'/>
 </div>
 
 {/* The get quote button */}

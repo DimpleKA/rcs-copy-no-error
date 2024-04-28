@@ -1,6 +1,7 @@
 // Footer.js
 
 import React from 'react';
+import Image from 'next/image';
 import Link from 'next/link';
 
 function Footer() {
@@ -10,7 +11,7 @@ function Footer() {
         <div className="md:flex md:justify-between">
           <div className="mb-6 md:mb-0">
             <Link href="https://flowbite.com/" className="flex items-center">
-              <img src="https://www.rcsinfo.in/img/logo.png" className="h-8 me-3" alt="FlowBite Logo" />
+              <Image src="https://www.rcsinfo.in/img/logo.png" className="h-8 me-3" alt="FlowBite Logo" />
               <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">RCS Info</span>
             </Link>
             <div className='p-2 px-4'>

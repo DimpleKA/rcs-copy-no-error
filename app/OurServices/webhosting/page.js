@@ -1,5 +1,6 @@
 import CommonNavig from '@/app/CommonNavig'
 import Footer from '@/app/Footer'
+import Image from 'next/image'
 import Navbar from '@/app/Navbar'
 import React from 'react'
 
@@ -39,7 +40,7 @@ We are determined to offer our clients the best website hosting experience possi
     
 </div>
 <div className='text-lg lg:w-1/2 p-4 sm:w-full'>
-  <img src='https://kinsta.com/wp-content/uploads/2021/11/what-is-web-hosting-1-1200x675.jpg'/>
+  <Image src='https://kinsta.com/wp-content/uploads/2021/11/what-is-web-hosting-1-1200x675.jpg'/>
 </div>
   </div>
 
@@ -61,7 +62,7 @@ We are determined to offer our clients the best website hosting experience possi
 
 {/* the last image */}
 <div className='w-full p-10'>
-  <img src='https://www.rcsinfo.in/img/web-hosting.jpg'/>
+  <Image src='https://www.rcsinfo.in/img/web-hosting.jpg'/>
 </div>
 {/* the last image */}
 

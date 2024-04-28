@@ -1,5 +1,6 @@
 import CommonNavig from '@/app/CommonNavig'
 import Footer from '@/app/Footer'
+import Image from 'next/image'
 import Navbar from '@/app/Navbar'
 import React from 'react'
 
@@ -42,7 +43,7 @@ The challenge of creating mobile apps is that they should be functional across d
 </ul> */}
 </div>
 <div className='text-lg lg:w-1/2 p-4 sm:w-full'>
-  <img src='https://www.rcsinfo.in/img/android-app.png'/>
+  <Image src='https://www.rcsinfo.in/img/android-app.png'/>
 </div>
   </div>
 

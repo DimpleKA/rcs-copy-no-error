@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 const AboutContent = () => {
   return (
@@ -29,7 +30,7 @@ const AboutContent = () => {
         </div>
         <div className="lg:w-1/2 sm:w-full p-4">
           <p className="text-lg font-semibold"></p>
-          <img src="https://www.rcsinfo.in/img/About-Us.jpg" />
+          <Image src="https://www.rcsinfo.in/img/About-Us.jpg" />
         </div>
       </div>
       {/* Content and picture row ends */}
@@ -62,7 +63,7 @@ const AboutContent = () => {
         <div className="lg:w-1/3 sm:w-full p-4 flex justify-center align-middle">
           <div className="">
             <p className=" font-semibold text-3xl text-red-600"></p>
-            <img src="https://www.rcsinfo.in/img/sunil.jpg" />
+            <Image src="https://www.rcsinfo.in/img/sunil.jpg" />
             <p className="text-3xl text-red-600 font-bold">
               Sunil Kumar CEO & Founder
             </p>
@@ -112,7 +113,7 @@ const AboutContent = () => {
       <div className="lg:flex sm:inline p-5 ">
         <div className="lg:w-1/2 sm:w-full p-4 lg:flex sm:flex border-2 border-gray-300">
           <div className="w-1/2">
-            <img src="https://www.rcsinfo.in/img/rajat.jpg" />
+            <Image src="https://www.rcsinfo.in/img/rajat.jpg" />
           </div>
           <div className="lg:w-1/2 sm:w-full p-5">
             <p className="font-bold">Mr. Rajat Mishra</p>
@@ -128,7 +129,7 @@ const AboutContent = () => {
         </div>
         <div className="lg:w-1/2 sm:w-full p-4 lg:flex sm:flex border-2 border-gray-300">
           <div className="w-1/2">
-            <img src="https://www.rcsinfo.in/img/raghav04.jpg" />
+            <Image src="https://www.rcsinfo.in/img/raghav04.jpg" />
           </div>
           <div className="lg:w-1/2 sm:w-full  p-5">
             <p className="font-bold">Mr. HS Raghav</p>
@@ -147,7 +148,7 @@ const AboutContent = () => {
       <div className="lg:flex sm:inline p-5 ">
         <div className="lg:w-1/2 sm:w-full p-4 lg:flex sm:flex border-2 border-gray-300">
           <div className="w-1/2">
-            <img src="https://www.rcsinfo.in/img/ShukdebBera.jpg" />
+            <Image src="https://www.rcsinfo.in/img/ShukdebBera.jpg" />
           </div>
           <div className="lg:w-1/2 sm:w-full p-5">
             <p className="font-bold">Mr. Shukdeb Bera</p>
@@ -163,7 +164,7 @@ const AboutContent = () => {
         </div>
         <div className="lg:w-1/2 sm:w-full p-4 lg:flex sm:flex border-2 border-gray-300">
           <div className="w-1/2 sm:flex sm:justify-center ">
-            <img src="https://www.rcsinfo.in/img/priya.jpg" />
+            <Image src="https://www.rcsinfo.in/img/priya.jpg" />
           </div>
           <div className="lg:w-1/2 sm:w-full p-5">
             <p className="font-bold">Ms. Priyambada</p>

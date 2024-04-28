@@ -1,5 +1,6 @@
 import CommonNavig from '@/app/CommonNavig'
 import Footer from '@/app/Footer'
+import Image from 'next/image'
 import Navbar from '@/app/Navbar'
 import React from 'react'
 
@@ -11,7 +12,7 @@ const PPC= () => {
 
     {/* logo startst */}
 <div className='w-full p-10'>
-  <img src='https://www.rcsinfo.in/img/ppc.png'/>
+  <Image src='https://www.rcsinfo.in/img/ppc.png'/>
 </div>
     {/* logo ends */}
 
@@ -43,7 +44,7 @@ PPC can also be dubbed as CPC that is Cost Per Click – since the advertiser ne
 </ul>
 </div>
 <div className='text-lg lg:w-1/2 p-4 sm:w-full'>
-  <img src='https://hotdogmarketing.net/wp-content/uploads/2021/11/110321-HDM-Social-Media-Marketing-02.png'/>
+  <Image src='https://hotdogmarketing.net/wp-content/uploads/2021/11/110321-HDM-Social-Media-Marketing-02.png'/>
 </div>
   </div>
 

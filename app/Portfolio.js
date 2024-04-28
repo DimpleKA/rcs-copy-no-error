@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from 'next/image';
 import styles from './CSS/Portfolio.module.css'; // Import CSS module for styling
 
 function Portfolio() {
@@ -16,7 +17,7 @@ function Portfolio() {
             div
           </div>
           <div className={`${styles.rightSide}`}>
-            <img className="w-full h-full" src="https://via.placeholder.com/150" alt="Placeholder" />
+            <Image className="w-full h-full" src="https://via.placeholder.com/150" alt="Placeholder" />
           </div>
         </div>
 {/* card one ends */}
@@ -27,7 +28,7 @@ function Portfolio() {
             div
           </div>
           <div className={`${styles.rightSide}`}>
-            <img className="w-full h-full" src="https://via.placeholder.com/150" alt="Placeholder" />
+            <Image className="w-full h-full" src="https://via.placeholder.com/150" alt="Placeholder" />
           </div>
         </div>
 {/* card one ends */}
@@ -38,7 +39,7 @@ function Portfolio() {
             div
           </div>
           <div className={`${styles.rightSide}`}>
-            <img className="w-full h-full" src="https://via.placeholder.com/150" alt="Placeholder" />
+            <Image className="w-full h-full" src="https://via.placeholder.com/150" alt="Placeholder" />
           </div>
         </div>
 {/* card one ends */}

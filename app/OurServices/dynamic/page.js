@@ -1,5 +1,6 @@
 import CommonNavig from '@/app/CommonNavig'
 import Footer from '@/app/Footer'
+import Image from 'next/image'
 import Navbar from '@/app/Navbar'
 import React from 'react'
 
@@ -40,7 +41,7 @@ const DynamicWeb = () => {
 </ul>
 </div>
 <div className='text-lg lg:w-1/2 p-4 sm:w-full'>
-  <img src='https://www.rcsinfo.in/img/dynamic-website.png'/>
+  <Image src='https://www.rcsinfo.in/img/dynamic-website.png'/>
 </div>
   </div>
 

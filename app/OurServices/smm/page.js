@@ -1,4 +1,5 @@
 import CommonNavig from '@/app/CommonNavig'
+import Image from 'next/image'
 import Footer from '@/app/Footer'
 import Navbar from '@/app/Navbar'
 import React from 'react'
@@ -42,7 +43,7 @@ Rcs Web Solution on behalf of our customers carries out social media marketing i
 </ul> */}
 </div>
 <div className='text-lg lg:w-1/2 p-4 sm:w-full'>
-  <img src='https://hotdogmarketing.net/wp-content/uploads/2021/11/110321-HDM-Social-Media-Marketing-02.png'/>
+  <Image src='https://hotdogmarketing.net/wp-content/uploads/2021/11/110321-HDM-Social-Media-Marketing-02.png'/>
 </div>
   </div>
 

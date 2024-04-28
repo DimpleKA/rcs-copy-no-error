@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from 'next/image';
 import Navbar from '../Navbar';
 import Footer from '../Footer';
 import CommonNavig from '../CommonNavig';
@@ -19,7 +20,7 @@ const Page = () => {
           </p>
         </div>
         <div className="lg:w-1/2 sm:w-full p-4">
-          <img src="https://www.rcsinfo.in/img/intern1.jpg" alt="Internship" />
+          <Image src="https://www.rcsinfo.in/img/intern1.jpg" alt="Internship" />
         </div>
       </div>
       {/* Content and picture row ends */}
