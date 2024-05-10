@@ -13,7 +13,7 @@ export default function Home() {
 {/* Head compnent meta tags */}
 <Head>
         <meta charSet="utf-8" />
-        <title>top Web Designer and digital marketing company in Bangalore</title>
+        <title>top Web Designer and digital marketing company in Bangalore </title>
         <meta name="google-site-verification" content="JXZyFQichbif1W0A0tZF1r6NFfbyYJwLsbO17Gl8DkY" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
