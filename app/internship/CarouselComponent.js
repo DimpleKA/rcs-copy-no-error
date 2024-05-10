@@ -24,7 +24,7 @@ const Gallery = () => {
 
   return (
     <div className="relative p-10">
-      <Image
+       <Image
         className="w-full max-h-96 object-cover rounded-lg"
         src={images[currentIndex]}
         alt={`Image ${currentIndex + 1}`}

@@ -43,7 +43,7 @@ However, the initial creation of a CMS website and its customization requires te
 </ul> */}
 </div>
 <div className='text-lg lg:w-1/2 p-4 sm:w-full'>
-  <Image src='https://www.rcsinfo.in/img/cms-website.jpg'/>
+  <Image src='https://www.rcsinfo.in/img/cms-website.jpg' alt='sdlf'/>
 </div>
   </div>
 

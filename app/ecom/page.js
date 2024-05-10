@@ -43,7 +43,7 @@ Our market leading selling tools, striking templates and enterprise-grade websit
 </ul> */}
 </div>
 <div className='text-lg lg:w-1/2 p-4 sm:w-full'>
-  <Image src='https://miro.medium.com/v2/resize:fit:1400/1*34GfkhLFydPjZWUde1EzRg.jpeg'/>
+   <Image src='https://miro.medium.com/v2/resize:fit:1400/1*34GfkhLFydPjZWUde1EzRg.jpeg' alt=''/>
 </div>
   </div>
 
@@ -93,7 +93,7 @@ Blog Submission – The worth of a website increases with submission of blogs. W
 {/* fifth one columnd starts */}
 
 <div className='w-full p-10'>
-  <Image src='https://www.rcsinfo.in/img/E-commerce.jpg'/>
+   <Image src='https://www.rcsinfo.in/img/E-commerce.jpg' alt=''/>
 </div>
 
 {/* The get quote button */}

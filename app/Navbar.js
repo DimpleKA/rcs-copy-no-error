@@ -1,6 +1,7 @@
 'use client'
 import React, { useState } from 'react';
 import Image from 'next/image';
+import logo from './assets/logo1.png'
 import Link from 'next/link';
 
 function Navbar() {
@@ -20,7 +21,7 @@ function Navbar() {
     <nav className="bg-white border-gray-200 dark:bg-gray-900 dark:border-gray-700">
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <Link href="#" className="flex items-center space-x-3 rtl:space-x-reverse">
-          <Image src="https://www.rcsinfo.in/img/logo.png" className="h-8" alt="RCS Info Logo" />
+           <Image src={logo} className="h-8" alt="RCS Info Logo"  />
           <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">RCS Info</span>
         </Link>
         <button

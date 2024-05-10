@@ -47,7 +47,7 @@ SEO Company in Bangalore helps in reaching out to targeted customers. How – by
 </ul> */}
 </div>
 <div className='text-lg lg:w-1/2 p-4 sm:w-full'>
-  <Image src='https://th.bing.com/th/id/OIP.nXJ2DjAq5eBmTRSSFClFUwHaE8?rs=1&pid=ImgDetMain'/>
+   <Image src='https://th.bing.com/th/id/OIP.nXJ2DjAq5eBmTRSSFClFUwHaE8?rs=1&pid=ImgDetMain' alt=''/>
 </div>
   </div>
 
@@ -143,7 +143,7 @@ SEO Company in Bangalore helps in reaching out to targeted customers. How – by
 
 {/* 7 one row with two colums of li ends */}
 <div className='p-10 w-full'>
-  <Image src='https://www.rcsinfo.in/img/search-engine-optimization.png'/>
+   <Image src='https://www.rcsinfo.in/img/search-engine-optimization.png' alt=''/>
 </div>
 
 {/* The get quote button */}

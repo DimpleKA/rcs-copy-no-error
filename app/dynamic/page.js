@@ -41,7 +41,7 @@ const DynamicWeb = () => {
 </ul>
 </div>
 <div className='text-lg lg:w-1/2 p-4 sm:w-full'>
-  <Image src='https://www.rcsinfo.in/img/dynamic-website.png'/>
+   <Image src='https://www.rcsinfo.in/img/dynamic-website.png' alt=''/>
 </div>
   </div>
 

@@ -43,7 +43,7 @@ The challenge of creating mobile apps is that they should be functional across d
 </ul> */}
 </div>
 <div className='text-lg lg:w-1/2 p-4 sm:w-full'>
-  <Image src='https://www.rcsinfo.in/img/android-app.png'/>
+  <Image src='https://www.rcsinfo.in/img/android-app.png' alt='jhv'/>
 </div>
   </div>
 

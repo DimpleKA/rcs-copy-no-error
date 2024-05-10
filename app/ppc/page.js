@@ -1,64 +1,67 @@
 import CommonNavig from '@/app/CommonNavig'
-import Image from 'next/image'
 import Footer from '@/app/Footer'
+import Image from 'next/image'
 import Navbar from '@/app/Navbar'
 import React from 'react'
 
-const SMM= () => {
+const PPC= () => {
   return (
     <>
     <Navbar/>
-    <CommonNavig page="Social Media Marketing"/>
+    <CommonNavig page="Pay Per Click"/>
+
+    {/* logo startst */}
+<div className='w-full p-10'>
+   <Image src='https://www.rcsinfo.in/img/ppc.png' alt=''/>
+</div>
+    {/* logo ends */}
 
 
 {/* first heading  */}
     <div className='w-full p-5'>
-    <h1 className='text-4xl '>Social Media Marketing (SMO)</h1>
+    <h1 className='text-4xl '>Pay Per Click - PPC</h1>
     </div>
 {/* first heading ends */}
 
 {/* 2ndfirst heading  */}
 <div className='w-full p-5'>
-    <h1 className='text-3xl font-bold w-1/2 '>Social media marketing.</h1>
+    <h1 className='text-3xl font-bold w-1/2 '>PPC Ad Model Clicks Well in Internet Advertising</h1>
     </div>
 {/* 2ndfirst heading ends */}
 
 {/* third two columns side by side */}
 <div className='w-full lg:flex p-5 sm:inline '>
     <div className='text-lg lg:w-1/2 p-4 sm:w-full'>
-    The significance of social media is indisputable in today’s world of online business and communication. The distinction between social networking sites and any other website is the formers individualistic or informal appeal. Networking sites as a platform enables establishment of a one-to-one communication avenue and that too at a personal level. Producers and sellers of goods and services get an unbiased opinion directly from end-users.
+    PPC is the acronym for Pay Per Click which is one of the better ways of Internet advertising. To be specific, business companies float their brand ads on popular websites or network of websites. The main reason behind PPC ad is to channelize web visitors to company sites.
 
-Rcs Web Solution on behalf of our customers carries out social media marketing in a well regulated and purposeful manner.
-    {/* <ul className='list-disc px-10'>
-  <li>Contact forms for securing leads</li>
-  <li>Email Subscription tabs for email marketing</li>
-  <li>Remarketing with the site visitor</li>
-  <li>Pop up forms</li>
-  <li>Account Creation</li>
-  <li>Social media buttons</li>
-  <li>Collection of cookies</li>
-  <li>Adding products to carts in ecommerce sites</li>
-  <li>Adding blogs</li>
-  <li>Effective for online payment</li>
-</ul> */}
+PPC can also be dubbed as CPC that is Cost Per Click – since the advertiser needs to pay the publisher (read as the popular website owner) only when a user clicks on the ad. In the wake of rapid development and popularity of online shopping portals like Amazon, Pay Per Click advertising has become a prominent and highly effective way to market one’s business on World Wide Web. It helps in creating online presence of the brand too.
+    <ul className='list-disc px-10'>
+    The many benefits of PPC are:
+  <li>Generating high quality leads</li>
+  <li>Driving valuable traffic to the business site</li>
+  <li>Driving brand awareness</li>
+  <li>Promoting content</li>
+</ul>
 </div>
 <div className='text-lg lg:w-1/2 p-4 sm:w-full'>
-  <Image src='https://hotdogmarketing.net/wp-content/uploads/2021/11/110321-HDM-Social-Media-Marketing-02.png'/>
+   <Image src='https://hotdogmarketing.net/wp-content/uploads/2021/11/110321-HDM-Social-Media-Marketing-02.png' alt=''/>
 </div>
   </div>
 
   <div className='w-full'>
   <p className='px-10'>
+  Out of the several types of Pay Per Click ad options, the most popular is the Paid Search Ad model. The other two being Display Advertising and Remarketing.
 
+In paid search format, business ads appear on the Search Engine Results page when a user searches for something, especially when a commercial search is made (like for instance the user is keen to buy a product online).
   </p>
 </div>
 {/* third two column side by side ends */}
 
 {/* fourt one columnd starts */}
 <div className='w-full p-5'>
-    <h1 className='text-3xl font-bold w-1/2 p-5 '>Work Flow </h1>
+    <h1 className='text-3xl font-bold w-1/2 p-5 '>How We Work? </h1>
     <p className='p-5 '>
-    The importance of social media marketing cannot be ignored when business and communication has matured to become an online round the clock phenomenon. We for the following reasons advice network marketing for you.
+    Get in touch with Rcs Technology, a top-notch PPC advertising company in Bangalore. You can call us or can drop in a mail – all contact details have been listed out on our business website. Once we get the order from you, we will not make delay to reach out with the most reasonable and competitive price quote.
     </p>
     <ul className='list-disc p-10'>
   <li>
@@ -140,4 +143,4 @@ Rcs Web Solution on behalf of our customers carries out social media marketing i
   )
 }
 
-export default SMM
+export default PPC

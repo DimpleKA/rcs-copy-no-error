@@ -28,7 +28,7 @@ const PPC= () => {
 {/* third two columns side by side */}
 <div className='w-full lg:flex p-5 sm:inline '>
     <div className='text-lg lg:w-1/2 p-4 sm:w-full'>
-    Logo is an identity and heart of Graphic Designing, logo designing is the Primo of RCS Technology since 2 years. Basically logos represent companies' brands or corporate identities. This is very hard or unprofessional and counterproductive to redesign logos frequently.
+    Logo is an identity and heart of Graphic Designing, logo designing is the Primo of RCS Technology since 2 years. Basically logos represent companies brands or corporate identities. This is very hard or unprofessional and counterproductive to redesign logos frequently.
 
 We guarantee you total satisfaction and you have absolutely nothing to lose with us. Try out our services or put us to test just now and see why RCS Technology is the number one choice of most businesses in Bangalore India as well the most preferred business logo designer for clients worldwide.
 
@@ -40,7 +40,7 @@ When you have been around for as long as we have, you get to learn a lot about w
     
 </div>
 <div className='text-lg lg:w-1/2 p-4 sm:w-full'>
-  <Image src='https://www.rcsinfo.in/img/logo-design.png'/>
+   <Image src='https://www.rcsinfo.in/img/logo-design.png' alt=''/>
 </div>
   </div>
 
@@ -54,7 +54,7 @@ When you have been around for as long as we have, you get to learn a lot about w
 
 {/* the last image */}
 {/* <div className='w-full p-10'>
-  <Image src='https://www.rcsinfo.in/img/web-hosting.jpg'/>
+   <Image src='https://www.rcsinfo.in/img/web-hosting.jpg'/>
 </div> */}
 {/* the last image */}
 

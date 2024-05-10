@@ -32,7 +32,7 @@ const PPC= () => {
 
 We provide Domain Registrations, web Hosting, Database Hosting, Windows Web Hosting & Linux Hosting service in the field of Reseller, Dedicated Server and VPN Server Hosting.
 
-We Have offering world class hosting solution to you in very less profit is that we want that you should start using world's best solutions for your business and grow your biz with the speed of thought.
+We Have offering world class hosting solution to you in very less profit is that we want that you should start using worlds best solutions for your business and grow your biz with the speed of thought.
 
 May you have different types of business and may the different websites to achieve commercial and non commercial goals. Importance of Webhosting A quality web hosting is backbone of any kind of websites. Hosting works likes engine for every web services and mail service. So before choosing web server for your website need to be very carefully. Points to Consider Before Choosing Web Hosting company.
 
@@ -40,7 +40,7 @@ We are determined to offer our clients the best website hosting experience possi
     
 </div>
 <div className='text-lg lg:w-1/2 p-4 sm:w-full'>
-  <Image src='https://kinsta.com/wp-content/uploads/2021/11/what-is-web-hosting-1-1200x675.jpg'/>
+   <Image src='https://kinsta.com/wp-content/uploads/2021/11/what-is-web-hosting-1-1200x675.jpg' alt=''/>
 </div>
   </div>
 
@@ -50,7 +50,7 @@ We are determined to offer our clients the best website hosting experience possi
 
 We provide Domain Registrations, web Hosting, Database Hosting, Windows Web Hosting & Linux Hosting service in the field of Reseller, Dedicated Server and VPN Server Hosting.
 
-We Have offering world class hosting solution to you in very less profit is that we want that you should start using world's best solutions for your business and grow your biz with the speed of thought.
+We Have offering world class hosting solution to you in very less profit is that we want that you should start using worlds best solutions for your business and grow your biz with the speed of thought.
 
 May you have different types of business and may the different websites to achieve commercial and non commercial goals. Importance of Webhosting A quality web hosting is backbone of any kind of websites. Hosting works likes engine for every web services and mail service. So before choosing web server for your website need to be very carefully. Points to Consider Before Choosing Web Hosting company.
 
@@ -62,7 +62,7 @@ We are determined to offer our clients the best website hosting experience possi
 
 {/* the last image */}
 <div className='w-full p-10'>
-  <Image src='https://www.rcsinfo.in/img/web-hosting.jpg'/>
+   <Image src='https://www.rcsinfo.in/img/web-hosting.jpg' alt=''/>
 </div>
 {/* the last image */}
 

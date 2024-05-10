@@ -13,7 +13,7 @@ const AboutContent = () => {
             extremely satisfied customers and have successfully established a
             strong customer base across the globe. RCS Technology was founded in
             2015 by a team of IT Experts. It has been functioning with a rare
-            supremacy and exceptional commitment in IT filed's. We intend to be
+            supremacy and exceptional commitment in IT fileds. We intend to be
             the leader of Website Design, Web Development, Customized Software
             Development, SEO, Web Hosting, Domain Registration, Mobile app
             development and Bulk SMS. RCS TECHNOLOGY, where your ideas shape
@@ -22,15 +22,15 @@ const AboutContent = () => {
             design, development, logo & branding, UI Design, PHP Development,
             WordPress Development , SEO & Digital Marketing. Our digital
             Marketing is focused on the latest and the most effective strategies
-            and systems that are put our client's Website in the top rankings of
-            various search engine result's. Our Online Marketing strategies use
+            and systems that are put our clients Website in the top rankings of
+            various search engine results. Our Online Marketing strategies use
             innovative and tested methods that engage people and bring them to
             your Webpage
           </p>
         </div>
         <div className="lg:w-1/2 sm:w-full p-4">
           <p className="text-lg font-semibold"></p>
-          <Image src="https://www.rcsinfo.in/img/About-Us.jpg" />
+          <Image src="https://www.rcsinfo.in/img/About-Us.jpg" alt="dp"  />
         </div>
       </div>
       {/* Content and picture row ends */}
@@ -63,7 +63,7 @@ const AboutContent = () => {
         <div className="lg:w-1/3 sm:w-full p-4 flex justify-center align-middle">
           <div className="">
             <p className=" font-semibold text-3xl text-red-600"></p>
-            <Image src="https://www.rcsinfo.in/img/sunil.jpg" />
+            <Image src="https://www.rcsinfo.in/img/sunil.jpg" alt="h" />
             <p className="text-3xl text-red-600 font-bold">
               Sunil Kumar CEO & Founder
             </p>
@@ -73,8 +73,8 @@ const AboutContent = () => {
           <p className=" font-semibold text-3xl text-red-600"></p>
           <p className="p-5 border-2 border-gray-300">
             A brave soul who left her job at Early age to start his own
-            Marvelous journey. Backed by a social cause, "Helping Young
-            Entrepreneur & Small Business To Grow Digitally and Financially”
+            Marvelous journey. Backed by a social cause Helping Young
+            Entrepreneur & Small Business To Grow Digitally and Financially
             …….. Mr Sunil Kumar is the CEO and Founder of RCS Technology, a
             software platform that enables institutions and SME to understand
             and utilize digitalization in their Business. Thus, by turning
@@ -103,7 +103,7 @@ const AboutContent = () => {
             for excellence. Together, we can accelerate our corporate or
             individual digital aspirations on the revolutionary platform. Thank
             you, one and all, on behalf of the RCS Family. Mr. Sunil Kumar CEO &
-            Founder RCS Technology "
+            Founder RCS Technology 
           </p>
         </div>
       </div>
@@ -113,15 +113,15 @@ const AboutContent = () => {
       <div className="lg:flex sm:inline p-5 ">
         <div className="lg:w-1/2 sm:w-full p-4 lg:flex sm:flex border-2 border-gray-300">
           <div className="w-1/2">
-            <Image src="https://www.rcsinfo.in/img/rajat.jpg" />
+            <Image src="https://www.rcsinfo.in/img/rajat.jpg" alt="jkh"  />
           </div>
           <div className="lg:w-1/2 sm:w-full p-5">
             <p className="font-bold">Mr. Rajat Mishra</p>
             <p className="pb-5">Senior Developer</p>
             <p className="pb-5">
-              "Young Developer,innovative in his idea,quick Learner who is fast
+              Young Developer,innovative in his idea,quick Learner who is fast
               enough to adobt the new technology.Handling Development & Customer
-              and "
+              and 
             </p>
             <p>Ph: 9211240240</p>
             <p>Email: rajat@rcsprojects.com</p>
@@ -129,14 +129,14 @@ const AboutContent = () => {
         </div>
         <div className="lg:w-1/2 sm:w-full p-4 lg:flex sm:flex border-2 border-gray-300">
           <div className="w-1/2">
-            <Image src="https://www.rcsinfo.in/img/raghav04.jpg" />
+            <Image src="https://www.rcsinfo.in/img/raghav04.jpg" alt="kjh"  />
           </div>
           <div className="lg:w-1/2 sm:w-full  p-5">
             <p className="font-bold">Mr. HS Raghav</p>
             <p className="pb-5">HR/ IT Manager</p>
             <p className="pb-5">
-              "Real learning comes from the customers and we are passionate
-              about building a customer centric organization"
+              Real learning comes from the customers and we are passionate
+              about building a customer centric organization
             </p>
             <p>Ph.+91-988 600 3080</p>
             <p>inforcsblr@gmail.com</p>
@@ -148,15 +148,15 @@ const AboutContent = () => {
       <div className="lg:flex sm:inline p-5 ">
         <div className="lg:w-1/2 sm:w-full p-4 lg:flex sm:flex border-2 border-gray-300">
           <div className="w-1/2">
-            <Image src="https://www.rcsinfo.in/img/ShukdebBera.jpg" />
+            <Image src="https://www.rcsinfo.in/img/ShukdebBera.jpg" alt="jg"  />
           </div>
           <div className="lg:w-1/2 sm:w-full p-5">
             <p className="font-bold">Mr. Shukdeb Bera</p>
             <p className="pb-5">Graphic Designer & Developer</p>
             <p className="pb-5">
-              "They are create visual concepts, using computer software or by
+              They are create visual concepts, using computer software or by
               hand, to communicate ideas that inspire, inform, and captivate
-              consumers."
+              consumers.
             </p>
             <p>Ph.+91-9875558934</p>
             <p>inforcsblr@gmail.com</p>
@@ -164,15 +164,15 @@ const AboutContent = () => {
         </div>
         <div className="lg:w-1/2 sm:w-full p-4 lg:flex sm:flex border-2 border-gray-300">
           <div className="w-1/2 sm:flex sm:justify-center ">
-            <Image src="https://www.rcsinfo.in/img/priya.jpg" />
+            <Image src="https://www.rcsinfo.in/img/priya.jpg" alt="khg"  />
           </div>
           <div className="lg:w-1/2 sm:w-full p-5">
             <p className="font-bold">Ms. Priyambada</p>
             <p className="pb-5"> Developer</p>
             <p className="pb-5">
-              "They are create and maintain websites. Digital designers develop,
+              They are create and maintain websites. Digital designers develop,
               create, and test website or interface layout, functions, and
-              navigation for usability."
+              navigation for usability.
             </p>
             <p>Nil</p>
             <p>Einforcsblr@gmail.com</p>

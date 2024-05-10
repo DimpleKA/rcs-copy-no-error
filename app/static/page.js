@@ -33,7 +33,7 @@ Static websites made with HTML, CSS (Client-side Scripting) and JavaScript seem 
 Even dynamic web pages can be created using HTML coding but with limited functionality. In dynamic website case two-thirds of the site designing rests on HTML coding and rest one-third fetches content from the database.
 </div>
 <div className='text-lg lg:w-1/2 p-4 sm:w-full'>
-  <Image src='https://th.bing.com/th/id/OIP.8SjojHKe9YXn_ow30UxX0QHaEH?rs=1&pid=ImgDetMain'/>
+   <Image src='https://th.bing.com/th/id/OIP.8SjojHKe9YXn_ow30UxX0QHaEH?rs=1&pid=ImgDetMain' alt=''/>
 </div>
   </div>
 

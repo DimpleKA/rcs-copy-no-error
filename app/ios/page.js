@@ -43,7 +43,7 @@ Our team of developers take iOS app development to an enhanced level. We adopt a
 </ul> */}
 </div>
 <div className='text-lg lg:w-1/2 p-4 sm:w-full'>
-  <Image src='https://www.rcsinfo.in/img/ios-app.jpg'/>
+   <Image src='https://www.rcsinfo.in/img/ios-app.jpg' alt=''/>
 </div>
   </div>
 

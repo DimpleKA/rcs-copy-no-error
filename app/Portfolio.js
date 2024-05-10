@@ -17,7 +17,7 @@ function Portfolio() {
             div
           </div>
           <div className={`${styles.rightSide}`}>
-            <Image className="w-full h-full" src="https://via.placeholder.com/150" alt="Placeholder" />
+             <Image className="w-full h-full" src="https://via.placeholder.com/150" alt="Placeholder" />
           </div>
         </div>
 {/* card one ends */}
@@ -28,7 +28,7 @@ function Portfolio() {
             div
           </div>
           <div className={`${styles.rightSide}`}>
-            <Image className="w-full h-full" src="https://via.placeholder.com/150" alt="Placeholder" />
+             <Image className="w-full h-full" src="https://via.placeholder.com/150" alt="Placeholder" />
           </div>
         </div>
 {/* card one ends */}
@@ -39,7 +39,7 @@ function Portfolio() {
             div
           </div>
           <div className={`${styles.rightSide}`}>
-            <Image className="w-full h-full" src="https://via.placeholder.com/150" alt="Placeholder" />
+             <Image className="w-full h-full" src="https://via.placeholder.com/150" alt="Placeholder" />
           </div>
         </div>
 {/* card one ends */}
